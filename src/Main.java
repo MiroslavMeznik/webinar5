@@ -5,7 +5,7 @@ public class Main {
         //TIP Press <shortcut actionId="ShowIntentionActions"/> with your caret at the highlighted text
         // to see how IntelliJ IDEA suggests fixing it.
         System.out.println("Hello and welcome!"); //change f to ln
-        System.out.println("");
+        System.out.println("chacha");
         System.out.println("Manual commit");
         System.out.println("new branch");
 
